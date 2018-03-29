@@ -1,0 +1,48 @@
+{
+ "basics":{
+   "photo":"profile.jpg",
+   "name":"M.Aishwarya",
+   "email":"aaishwarya559@gmail.com",
+   "phone":"9876544545"
+ },
+ "education":[
+   {
+  "course":"B.tech(Computer science and engineering)",
+  "college":[
+    "Ravindra college of engineering for women",
+    "2015-2019",
+    "60%"
+  ]
+},
+{
+"course":"Intermediate(MPC)",
+"college":[
+  "narayana junior college",
+  "2013-2015",
+  "60%"
+]
+},
+{
+"course":"SSC",
+"college":[
+ "narayana junior college",
+ "2012-2013",
+ "60%"
+]
+}
+],
+  "skills":[
+    {
+      "name":"operating systems",
+      "value":"windows,Linux"
+    },
+    {
+      "name":"programming languages",
+      "value":"C,C++,java"
+    },
+    {
+      "name":"web development",
+      "value":"HTML,Python,.net"
+    }
+  ]
+}
